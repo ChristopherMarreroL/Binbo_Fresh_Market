@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Binbo_Fresh_Market", "Binbo_Fresh_Market.csproj", "{FA56B61F-39F1-4A10-85E7-3E9398C7785A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA56B61F-39F1-4A10-85E7-3E9398C7785A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA56B61F-39F1-4A10-85E7-3E9398C7785A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA56B61F-39F1-4A10-85E7-3E9398C7785A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA56B61F-39F1-4A10-85E7-3E9398C7785A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3719CBE3-067C-4E93-B977-FC5D0C125A8C}
+	EndGlobalSection
+EndGlobal
